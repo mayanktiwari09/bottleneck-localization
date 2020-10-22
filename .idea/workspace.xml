@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd45471d-ef7c-4746-ae11-bb601a6c496e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/common-util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common-util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-service/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fact-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fact-service/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fact-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fib-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fib-service/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fib-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jC8lbgJtLSC7Zf6Vbdp4xtjjwh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Proxy">
+    <configuration name="ComputeService" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.tag.math.compute.ComputeServiceApplication" />
+      <module name="compute-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean:clean install" />
+      </method>
+    </configuration>
+    <configuration name="FactService" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="fact.FactServiceApplication" />
+      <module name="fact-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean:clean install" />
+      </method>
+    </configuration>
+    <configuration name="FibService" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="fib.FibServiceApplication" />
+      <module name="fib-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean:clean install" />
+      </method>
+    </configuration>
+    <configuration name="Proxy" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.proxy.ProxyApplication" />
+      <module name="proxy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean:clean install" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FactService" />
+      <item itemvalue="Application.FibService" />
+      <item itemvalue="Application.ComputeService" />
+      <item itemvalue="Application.Proxy" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd45471d-ef7c-4746-ae11-bb601a6c496e" name="Default Changelist" comment="" />
+      <created>1603296866937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603296866937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="104" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603302506174">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="104" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1603302506174" />
+    <state x="457" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603302485872">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1603302485872" />
+    <state width="1398" height="361" key="GridCell.Tab.0.bottom" timestamp="1603302881634">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="361" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603302881634" />
+    <state width="1398" height="361" key="GridCell.Tab.0.center" timestamp="1603302881627">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="361" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603302881627" />
+    <state width="1398" height="361" key="GridCell.Tab.0.left" timestamp="1603302881624">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="361" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603302881624" />
+    <state width="1398" height="361" key="GridCell.Tab.0.right" timestamp="1603302881631">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="361" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603302881631" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1603298727690">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603298727690" />
+  </component>
+</project>
