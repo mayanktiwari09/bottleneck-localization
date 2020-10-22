@@ -24,9 +24,4 @@ public class ProxyController {
         return this.proxyService.findFact(number);
     }
 
-    @GetMapping("/sum-fact/{number}")
-    public Long sumFact(@PathVariable int number){
-        return this.proxyService.sumFact(number);
-    }
-
 }
