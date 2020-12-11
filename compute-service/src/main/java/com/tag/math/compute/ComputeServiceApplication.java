@@ -14,8 +14,8 @@ public class ComputeServiceApplication {
     @Bean
     public RestTemplate restTemplate(RestTemplateBuilder restTemplateBuilder){
         return restTemplateBuilder
-                .setConnectTimeout(Duration.ofSeconds(3))
-                .setReadTimeout(Duration.ofSeconds(3))
+                .setConnectTimeout(Duration.ofSeconds(1000))
+                .setReadTimeout(Duration.ofSeconds(1000))
                 .build();
     }
 

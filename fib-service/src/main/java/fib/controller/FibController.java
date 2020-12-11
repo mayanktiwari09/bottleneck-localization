@@ -15,7 +15,7 @@ public class FibController {
     private FibService fibService;
 
     @GetMapping("/fib/{number}")
-    public long calculate(@PathVariable int number){
+    public long calculate(@PathVariable int number) throws InterruptedException {
         System.out.println("Received fib request for :: " + number);
         long result = fibService.calculateFib(number);
         System.out.println("Result :: " + result);

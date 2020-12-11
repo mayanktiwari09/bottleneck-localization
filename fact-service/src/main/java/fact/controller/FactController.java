@@ -16,7 +16,7 @@ public class FactController {
     private FactService factService;
 
     @GetMapping("/fact/{number}")
-    public Long calculate(@PathVariable("number") int number){
+    public Long calculate(@PathVariable("number") int number) throws InterruptedException {
         System.out.println("Received fact request for :: " + number);
         long result = factService.calculateFactorial(number);
         System.out.println("Result :: " + result);

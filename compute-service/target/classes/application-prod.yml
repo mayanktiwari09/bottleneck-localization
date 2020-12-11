@@ -6,10 +6,3 @@ factservice:
 
 fibservice:
   host: localhost:8082
-
-opentracing:
-  jaeger:
-    service-name: ComputeService
-    enabled: TRUE
-    udp-sender:
-      host: localhost

@@ -9,10 +9,3 @@ fibservice:
 
 computeservice:
   host: localhost:8080
-
-opentracing:
-  jaeger:
-    service-name: ProxyService
-    enabled: TRUE
-    udp-sender:
-      host: localhost
