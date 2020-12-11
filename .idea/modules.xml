@@ -5,8 +5,21 @@
       <module fileurl="file://$PROJECT_DIR$/common-util/common-util.iml" filepath="$PROJECT_DIR$/common-util/common-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/compute-service/compute-service.iml" filepath="$PROJECT_DIR$/compute-service/compute-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/fact-service/fact-service.iml" filepath="$PROJECT_DIR$/fact-service/fact-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fact-service1/fact-service (1).iml" filepath="$PROJECT_DIR$/fact-service1/fact-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fact-service3/fact-service (2).iml" filepath="$PROJECT_DIR$/fact-service3/fact-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fact-service4/fact-service (3).iml" filepath="$PROJECT_DIR$/fact-service4/fact-service (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fact-service5/fact-service (4).iml" filepath="$PROJECT_DIR$/fact-service5/fact-service (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fact-service6/fact-service (5).iml" filepath="$PROJECT_DIR$/fact-service6/fact-service (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fact-service7/fact-service (6).iml" filepath="$PROJECT_DIR$/fact-service7/fact-service (6).iml" />
       <module fileurl="file://$PROJECT_DIR$/fact-service2/fact-service2.iml" filepath="$PROJECT_DIR$/fact-service2/fact-service2.iml" />
       <module fileurl="file://$PROJECT_DIR$/fib-service/fib-service.iml" filepath="$PROJECT_DIR$/fib-service/fib-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fib-service1/fib-service (1).iml" filepath="$PROJECT_DIR$/fib-service1/fib-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fib-service2/fib-service (2).iml" filepath="$PROJECT_DIR$/fib-service2/fib-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fib-service3/fib-service (3).iml" filepath="$PROJECT_DIR$/fib-service3/fib-service (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fib-service4/fib-service (4).iml" filepath="$PROJECT_DIR$/fib-service4/fib-service (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fib-service6/fib-service (5).iml" filepath="$PROJECT_DIR$/fib-service6/fib-service (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/fib-service5/fib-service5.iml" filepath="$PROJECT_DIR$/fib-service5/fib-service5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fib-service7/fib-service7.iml" filepath="$PROJECT_DIR$/fib-service7/fib-service7.iml" />
       <module fileurl="file://$PROJECT_DIR$/math-service.iml" filepath="$PROJECT_DIR$/math-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
     </modules>

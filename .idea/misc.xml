@@ -6,6 +6,19 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/proxy/pom.xml" />
         <option value="$PROJECT_DIR$/fact-service2/pom.xml" />
+        <option value="$PROJECT_DIR$/fact-service1/pom.xml" />
+        <option value="$PROJECT_DIR$/fact-service3/pom.xml" />
+        <option value="$PROJECT_DIR$/fact-service4/pom.xml" />
+        <option value="$PROJECT_DIR$/fact-service5/pom.xml" />
+        <option value="$PROJECT_DIR$/fact-service6/pom.xml" />
+        <option value="$PROJECT_DIR$/fact-service7/pom.xml" />
+        <option value="$PROJECT_DIR$/fib-service1/pom.xml" />
+        <option value="$PROJECT_DIR$/fib-service2/pom.xml" />
+        <option value="$PROJECT_DIR$/fib-service3/pom.xml" />
+        <option value="$PROJECT_DIR$/fib-service4/pom.xml" />
+        <option value="$PROJECT_DIR$/fib-service5/pom.xml" />
+        <option value="$PROJECT_DIR$/fib-service6/pom.xml" />
+        <option value="$PROJECT_DIR$/fib-service7/pom.xml" />
       </list>
     </option>
   </component>

@@ -133,12 +133,12 @@ public class ComputeService {
     }
 
     public Long findFact6(int number){
-        String url =  "http://" + factServiceHost + "/api/fact6/" + number;;
+        String url =  "http://" + factServiceHost6 + "/api/fact6/" + number;;
         return getResponse(url);
     }
 
     public Long findFact7(int number){
-        String url =  "http://" + factServiceHost + "/api/fact7/" + number;;
+        String url =  "http://" + factServiceHost7 + "/api/fact7/" + number;;
         return getResponse(url);
     }
 
