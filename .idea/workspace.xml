@@ -25,32 +25,16 @@
     <list default="true" id="cd45471d-ef7c-4746-ae11-bb601a6c496e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common-util/target/common-util-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-util/target/common-util-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compute-service/src/main/java/com/tag/math/compute/ComputeServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/src/main/java/com/tag/math/compute/ComputeServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compute-service/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/src/main/resources/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compute-service/target/classes/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/target/classes/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compute-service/target/classes/com/tag/math/compute/ComputeServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/target/classes/com/tag/math/compute/ComputeServiceApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/compute-service/target/compute-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/target/compute-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/compute-service/target/compute-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/target/compute-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fact-service/src/main/java/fact/controller/FactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/src/main/java/fact/controller/FactController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fact-service/src/main/java/fact/service/FactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/src/main/java/fact/service/FactService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fact-service/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/src/main/resources/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fact-service/target/classes/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/target/classes/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fact-service/target/classes/fact/controller/FactController.class" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/target/classes/fact/controller/FactController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fact-service/target/classes/fact/service/FactService.class" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/target/classes/fact/service/FactService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fact-service/target/fact-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/target/fact-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fact-service/target/fact-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/target/fact-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fib-service/src/main/java/fib/controller/FibController.java" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/src/main/java/fib/controller/FibController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fib-service/src/main/java/fib/service/FibService.java" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/src/main/java/fib/service/FibService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fib-service/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/src/main/resources/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fib-service/target/classes/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/target/classes/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fib-service/target/classes/fib/controller/FibController.class" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/target/classes/fib/controller/FibController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fib-service/target/classes/fib/service/FibService.class" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/target/classes/fib/service/FibService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fib-service/target/fib-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/target/fib-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fib-service/target/fib-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/target/fib-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proxy/src/main/java/com/proxy/ProxyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/src/main/java/com/proxy/ProxyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proxy/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/src/main/resources/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proxy/target/classes/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/target/classes/application-prod.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proxy/target/classes/com/proxy/ProxyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/target/classes/com/proxy/ProxyApplication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +73,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FactService">
+  <component name="RunManager" selected="Application.ComputeService">
     <configuration name="ComputeService" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.tag.math.compute.ComputeServiceApplication" />
       <module name="compute-service" />
@@ -166,25 +150,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="457" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1603302485872" />
-    <state width="1398" height="361" key="GridCell.Tab.0.bottom" timestamp="1607261450355">
+    <state width="1398" height="361" key="GridCell.Tab.0.bottom" timestamp="1607705734076">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="361" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607261450355" />
+    <state width="1398" height="361" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607705734076" />
     <state width="1398" height="361" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604071074847" />
-    <state width="1398" height="361" key="GridCell.Tab.0.center" timestamp="1607261450354">
+    <state width="1398" height="361" key="GridCell.Tab.0.center" timestamp="1607705734074">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="361" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607261450354" />
+    <state width="1398" height="361" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607705734074" />
     <state width="1398" height="361" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604071074844" />
-    <state width="1398" height="361" key="GridCell.Tab.0.left" timestamp="1607261450353">
+    <state width="1398" height="361" key="GridCell.Tab.0.left" timestamp="1607705734074">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="361" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607261450353" />
+    <state width="1398" height="361" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607705734074" />
     <state width="1398" height="361" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604071074841" />
-    <state width="1398" height="361" key="GridCell.Tab.0.right" timestamp="1607261450354">
+    <state width="1398" height="361" key="GridCell.Tab.0.right" timestamp="1607705734075">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="361" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607261450354" />
+    <state width="1398" height="361" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607705734075" />
     <state width="1398" height="361" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604071074845" />
     <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1605369702660">
       <screen x="0" y="0" width="1440" height="900" />

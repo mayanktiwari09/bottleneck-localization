@@ -9,7 +9,10 @@ import java.util.concurrent.TimeUnit;
 public class FibService {
 
     public long calculateFib(final int number) throws InterruptedException {
-        TimeUnit.SECONDS.sleep(1);
+        Thread.sleep(200);
+        if(number%2==0){
+            Thread.sleep(10);
+        }
         return getFib(number);
     }
 

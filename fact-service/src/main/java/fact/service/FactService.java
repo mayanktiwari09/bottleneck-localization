@@ -25,7 +25,10 @@ public class FactService {
     }
 
     private long getFact(int number) throws InterruptedException {
-        TimeUnit.SECONDS.sleep(1);
+        Thread.sleep(200);
+        if(number%2==0){
+            Thread.sleep(10);
+        }
         long fact = 1;
         for (int i = 2; i <= number; i++) {
             fact = fact * i;
