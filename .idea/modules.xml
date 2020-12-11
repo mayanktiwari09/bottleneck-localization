@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/common-util/common-util.iml" filepath="$PROJECT_DIR$/common-util/common-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/compute-service/compute-service.iml" filepath="$PROJECT_DIR$/compute-service/compute-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/fact-service/fact-service.iml" filepath="$PROJECT_DIR$/fact-service/fact-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fact-service2/fact-service2.iml" filepath="$PROJECT_DIR$/fact-service2/fact-service2.iml" />
       <module fileurl="file://$PROJECT_DIR$/fib-service/fib-service.iml" filepath="$PROJECT_DIR$/fib-service/fib-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/math-service.iml" filepath="$PROJECT_DIR$/math-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />

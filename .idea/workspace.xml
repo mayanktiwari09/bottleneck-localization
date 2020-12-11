@@ -23,18 +23,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd45471d-ef7c-4746-ae11-bb601a6c496e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fact-service2/fact-service2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common-util/target/common-util-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-util/target/common-util-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-service/src/main/java/com/tag/math/compute/controller/ComputeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/src/main/java/com/tag/math/compute/controller/ComputeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-service/src/main/java/com/tag/math/compute/service/ComputeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/src/main/java/com/tag/math/compute/service/ComputeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-service/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-service/target/classes/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/target/classes/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-service/target/classes/com/tag/math/compute/controller/ComputeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/target/classes/com/tag/math/compute/controller/ComputeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compute-service/target/classes/com/tag/math/compute/service/ComputeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/target/classes/com/tag/math/compute/service/ComputeService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/compute-service/target/compute-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/target/compute-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/compute-service/target/compute-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/compute-service/target/compute-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fact-service/src/main/java/fact/service/FactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/src/main/java/fact/service/FactService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fact-service/target/classes/fact/service/FactService.class" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/target/classes/fact/service/FactService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fact-service/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fact-service/target/fact-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/target/fact-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fact-service/target/fact-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/fact-service/target/fact-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fib-service/src/main/java/fib/service/FibService.java" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/src/main/java/fib/service/FibService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fib-service/target/classes/fib/service/FibService.class" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/target/classes/fib/service/FibService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fib-service/target/fib-service-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/target/fib-service-0.0.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fib-service/target/fib-service-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/fib-service/target/fib-service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/src/main/java/com/proxy/controller/ProxyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/src/main/java/com/proxy/controller/ProxyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/src/main/java/com/proxy/service/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/src/main/java/com/proxy/service/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/target/classes/com/proxy/controller/ProxyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/target/classes/com/proxy/controller/ProxyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/target/classes/com/proxy/service/Proxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/target/classes/com/proxy/service/Proxy.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +79,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -73,7 +88,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComputeService">
+  <component name="RunManager" selected="Application.FactService2">
     <configuration name="ComputeService" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.tag.math.compute.ComputeServiceApplication" />
       <module name="compute-service" />
@@ -85,6 +100,14 @@
     <configuration name="FactService" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="fact.FactServiceApplication" />
       <module name="fact-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean:clean install" />
+      </method>
+    </configuration>
+    <configuration name="FactService2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="fact2.FactServiceApplication2" />
+      <module name="fact-service2" />
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean:clean install" />
@@ -111,6 +134,7 @@
       <item itemvalue="Application.FactService" />
       <item itemvalue="Application.FibService" />
       <item itemvalue="Application.Proxy" />
+      <item itemvalue="Application.FactService2" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -142,33 +166,33 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="104" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603302506174">
+    <state x="184" y="56" width="1071" height="844" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607708668119">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="104" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1603302506174" />
-    <state x="457" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603302485872">
+    <state x="184" y="56" width="1071" height="844" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1607708668119" />
+    <state x="457" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607708375128">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="457" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1603302485872" />
-    <state width="1398" height="361" key="GridCell.Tab.0.bottom" timestamp="1607705734076">
+    <state x="457" y="259" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1607708375128" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1607708994711">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="361" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607705734076" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607708994711" />
     <state width="1398" height="361" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604071074847" />
-    <state width="1398" height="361" key="GridCell.Tab.0.center" timestamp="1607705734074">
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1607708994707">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="361" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607705734074" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607708994707" />
     <state width="1398" height="361" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604071074844" />
-    <state width="1398" height="361" key="GridCell.Tab.0.left" timestamp="1607705734074">
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1607708994706">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="361" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607705734074" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607708994706" />
     <state width="1398" height="361" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604071074841" />
-    <state width="1398" height="361" key="GridCell.Tab.0.right" timestamp="1607705734075">
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1607708994709">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="361" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607705734075" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607708994709" />
     <state width="1398" height="361" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604071074845" />
     <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1605369702660">
       <screen x="0" y="0" width="1440" height="900" />
@@ -198,9 +222,20 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="88" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1603481695222" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1603369471402">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1607708688665">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603369471402" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1607708688665" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fact-service2/src/main/java/fact2/service/FactService2.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
